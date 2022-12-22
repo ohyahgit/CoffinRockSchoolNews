@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Coffin Rock School News</title>
+    <link>http://coffinrocknews.live/posts/</link>
+    <description>Recent content in Posts on Coffin Rock School News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Dec 2022 16:18:37 -0800</lastBuildDate><atom:link href="http://coffinrocknews.live/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coffin Rock School News</title>
+      <link>http://coffinrocknews.live/posts/my-first-post/</link>
+      <pubDate>Wed, 21 Dec 2022 16:18:37 -0800</pubDate>
+      
+      <guid>http://coffinrocknews.live/posts/my-first-post/</guid>
+      <description>Coffin Rock School News is live! This is the first post on the new official website of the unofficial Coffin Rock Student News site!</description>
+    </item>
+    
+  </channel>
+</rss>
