@@ -1,1 +1,0 @@
-# Coffin Rock Student News
