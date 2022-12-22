@@ -2,3 +2,7 @@ baseURL = 'http://coffinrocknews.live'
 languageCode = 'en-us'
 title = 'Coffin Rock School News'
 theme = "paperesque"
+
+[params.menu]
+name = "Articles"
+url = "content/posts/"
